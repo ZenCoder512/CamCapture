@@ -47,7 +47,7 @@ git clone https://github.com/ZenCoder512/CamCapture.git
 ### 📂 Step 2: Navigate to Directory
 Switch over to the project directory to access the main execution files:
 ```bash
-cd camphish
+cd CamCapture
 ```
 ### ⚙️ Step 3: Launch the Interface
 Provide the execution command to spin up the script setup wizard:
