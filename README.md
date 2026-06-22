@@ -42,7 +42,7 @@ Follow these simple steps to deploy and test the project on your local environme
 ### 📥 Step 1: Clone the Repository
 Open your terminal and paste the following command to download the codebase:
 ```bash
-git clone https://github.com/ZenCoder512/-CamCapture.git
+git clone https://github.com/ZenCoder512/CamCapture.git
 ```
 ### 📂 Step 2: Navigate to Directory
 Switch over to the project directory to access the main execution files:
